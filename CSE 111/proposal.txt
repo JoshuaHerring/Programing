@@ -1,0 +1,34 @@
+Proposal for a Student Chosen Program
+
+(This is a proposal. All proposals are written with our best knowledge
+at the beginning of a project. As we progress from the beginning to the
+end of a project, we gain more knowledge, and some of the ideas we
+proposed change. This is part of completing any project and is fine.
+However, we still must write a proposal so that our teachers or
+supervisors know what we intend to do. Please answer each of the
+following questions to the best of your knowledge.)
+
+1. What is the title of your program?
+driver evaluation
+
+2. What real world problem will your program address or help to solve?
+at my work we have a problem with employes that slack off and it is not very well kept track of.
+I intend to write a program that will allow us to keep track of our problematic drives and their problems.
+
+3. What will you learn from developing this program?
+This will help me apply what I have leanred in programming in the real world and will
+furhtur my understanidng of dictionaries and how they work and how to modify them effeciently.
+
+4. What Python modules will your program use? (Some examples are: csv,
+datetime, functools, matplotlib, math, pandas, pytest, random, requests,
+and tkinter.)
+I will almost certainly use csv,datetime, and pytest, module for this assignment.
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+Yes my rough idea is to have a function for adding in new drives, another to remove drives,
+one to add a complaint or error of a driver with the date of error. There will probalbly be more but this is my rough idea.
+
+6. Will you write test functions to test many of your program functions?
+yes I will write test functions to make sure my code works properly.
+
