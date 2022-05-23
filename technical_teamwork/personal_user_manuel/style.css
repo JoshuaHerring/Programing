@@ -2,15 +2,22 @@ h1
 {
     text-align: center;
 }
-
-
 body
 {
-    background-color: darkgreen ;
-    color: burlywood;
+    line-height: 30px;
 }
-
 .sub
 {
    list-style-type: disc;
+}
+
+ol
+{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.sub, .sub li
+{
+    font-weight: 100;
 }
