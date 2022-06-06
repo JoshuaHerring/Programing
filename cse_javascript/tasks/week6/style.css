@@ -1,11 +1,145 @@
-#dog
+#backround_image
 {
-    cursor: move;
-    opacity: .5
+    position: relative;
+    width: 100%;
 }
 
-
-body
+#story
 {
-    background-color: aqua;
+    position: absolute;
+    top: 20%;
+    margin: 0 30%;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(0,100,0,.7);
+}
+
+button
+{
+height: 20px;
+width: 200px;
+}
+
+#begin1
+{
+    position: absolute;
+    /* top: 80%;
+    left: 20%; */
+}
+
+#button2
+{
+    position: absolute;
+    /* top: 80%;
+    left: 32%; */
+}
+
+#button3
+{
+    position: absolute;
+    /* top: 80%;
+    left: 44%; */
+}
+
+#button4
+{
+    position: absolute;
+    /* top: 80%;
+    left: 56%; */
+}
+
+#button5
+{
+    position: absolute;
+    /* top: 80%;
+    left: 68%; */
+}
+
+#button6
+{
+    position: absolute;
+    /* top: 80%;
+    left: 80%; */
+}
+
+#button7
+{
+    position: absolute;
+    /* top: 90%;
+    left: 20%; */
+}
+
+#button8
+{
+    position: absolute;
+    /* top: 90%;
+    left: 32%; */
+}
+
+#button9
+{
+    position: absolute;
+    /* top: 90%;
+    left: 44%; */
+}
+
+#button10
+{
+    position: absolute;
+    /* top: 90%;
+    left: 56%; */
+}
+
+#button11
+{
+    position: absolute;
+    /* top: 90%;
+    left: 68%; */
+}
+
+#button12
+{
+    position: absolute;
+    /* top: 90%;
+    left: 80%; */
+}
+
+.inactive
+{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    color: transparent;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.active1
+{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    color: aliceblue;
+    background-color: rgba(0,100,0,.7);
+    cursor: pointer;
+}
+
+.active2
+{
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    color: aliceblue;
+    background-color: rgba(0,100,0,.7);
+    cursor: pointer;
+}
+
+.active3
+{
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    color: aliceblue;
+    background-color: rgba(0,100,0,.7);
+    cursor: pointer;
 }
